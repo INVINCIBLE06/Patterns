@@ -12,7 +12,7 @@ using namespace std;
 
 int main()
 {
-    int n = 5, i = 1, j = 1;
+    int n = 4, i = 1, j = 1;
     // cout << "Please enter the number of rows you want: ";
     // cin >> n;
     while(i <= n)
