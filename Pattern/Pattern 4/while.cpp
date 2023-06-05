@@ -1,9 +1,9 @@
 /**
  * The below code is for printing the partter
  *          The pattern will be like this :-
- *                  n n-1 n-2 . . . . . n
- *                  n n-1 n-2 . . . . . n
- *                  n n-1 n-2 . . . . . n
+ *                  3 2 1
+ *                  3 2 1
+ *                  3 2 1
  *                  
 */
 
@@ -12,9 +12,7 @@ using namespace std;
 
 int main()
 {
-    int n, i = 0, j = 0;
-    cout << "Please enter the number of rows you want: ";
-    cin >> n;
+    int n = 3, i = 0, j = 0;
     while(i < n)
     {
         int a = n;
