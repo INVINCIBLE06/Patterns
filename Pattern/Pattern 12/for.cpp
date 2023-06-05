@@ -1,10 +1,9 @@
 /**
  * The below code is for printing the partter
  *          The pattern will be like this :-
- *                  1
- *                  2 1
- *                  3 2 1
- *                  4 3 2 1
+ *                  A B C
+ *                  A B C
+ *                  A B C
 */
 
 #include<iostream>
