@@ -40,9 +40,9 @@ The code link are as follow :<br>
 ## Pattern 4
 Pattern will be this :-   <br>
 ```bash
-                   n n-1 n-2 . . . . . n
-                   n n-1 n-2 . . . . . n
-                   n n-1 n-2 . . . . . n
+              3 2 1
+              3 2 1
+              3 2 1
 ```
 The code link are as follow :<br>
     1. [For Loop](https://github.com/INVINCIBLE06/Patterns/blob/main/Pattern/Pattern%204/for.cpp#L4)<br>
