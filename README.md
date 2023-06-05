@@ -131,5 +131,38 @@ Pattern will be this :-   <br>
                   4 3 2 1                  
 ```
 The code link are as follow :<br>
-    1. [For Loop](https://github.com/INVINCIBLE06/Patterns/blob/main/Pattern/Pattern%2010/for.cpp)<br>
-    2. [While Loop](https://github.com/INVINCIBLE06/Patterns/blob/main/Pattern/Pattern%2010/while.cpp)<br>
+    1. [For Loop](https://github.com/INVINCIBLE06/Patterns/blob/main/Pattern/Pattern%2011/for.cpp)<br>
+    2. [While Loop](https://github.com/INVINCIBLE06/Patterns/blob/main/Pattern/Pattern%2011/while.cpp)<br>
+    
+## Pattern 12
+Pattern will be this :-   <br>
+```bash
+                 A B C
+                 A B C
+                 A B C
+```
+The code link are as follow :<br>
+    1. [For Loop](https://github.com/INVINCIBLE06/Patterns/blob/main/Pattern/Pattern%2012/for.cpp)<br>
+    2. [While Loop](https://github.com/INVINCIBLE06/Patterns/blob/main/Pattern/Pattern%2012/while.cpp)<br>
+    
+## Pattern 13
+Pattern will be this :-   <br>
+```bash
+                 A B C
+                 D E F
+                 G H I
+```
+The code link are as follow :<br>
+    1. [For Loop](https://github.com/INVINCIBLE06/Patterns/blob/main/Pattern/Pattern%2013/for.cpp)<br>
+    2. [While Loop](https://github.com/INVINCIBLE06/Patterns/blob/main/Pattern/Pattern%2013/while.cpp)<br>
+    
+## Pattern 14
+Pattern will be this :-   <br>
+```bash
+                 A B C
+                 B C D
+                 C D E
+```
+The code link are as follow :<br>
+    1. [For Loop](https://github.com/INVINCIBLE06/Patterns/blob/main/Pattern/Pattern%2014/for.cpp)<br>
+    2. [While Loop](https://github.com/INVINCIBLE06/Patterns/blob/main/Pattern/Pattern%2014/while.cpp)<br>
