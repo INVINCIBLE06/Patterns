@@ -24,6 +24,7 @@ int main()
             j = j + 1;
             A = A + 1;
         }
+        A = A - 2;
         j = 1;
         i = i + 1;
         cout << endl;
