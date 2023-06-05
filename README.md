@@ -125,10 +125,9 @@ The code link are as follow :<br>
 ## Pattern 11
 Pattern will be this :-   <br>
 ```bash
-                  1
-                  2 1
-                  3 2 1
-                  4 3 2 1                  
+                  A A A
+                  B B B
+                  C C C                  
 ```
 The code link are as follow :<br>
     1. [For Loop](https://github.com/INVINCIBLE06/Patterns/blob/main/Pattern/Pattern%2011/for.cpp)<br>
