@@ -12,8 +12,6 @@ using namespace std;
 int main()
 {
     int n = 3;
-    // cout << "Please enter the number of rows you want: ";
-    // cin >> n;
     char A = 'A';
     for(int i = 1; i <= n; i++)
     {
@@ -23,8 +21,7 @@ int main()
             cout << " ";
             A = A + 1;
         }
-        A = A - 1;
+        A = A - 2;
         cout << endl;
-        // A = A + 1;
     }
 }
