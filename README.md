@@ -271,10 +271,10 @@ The code link are as follow :<br>
 
 Pattern will be this :-   <br>
 ```bash
-                    1 1 1 1
-                      2 2 2
-                        3 3
-                          4
+                      1
+                    2 2
+                  3 3 3
+                4 4 4 4
 ```
 The code link are as follow :<br>
     1. [For Loop](https://github.com/INVINCIBLE06/Patterns/blob/main/Pattern/Pattern%2023/for.cpp)<br>
@@ -284,9 +284,9 @@ The code link are as follow :<br>
 
 Pattern will be this :-   <br>
 ```bash
-                    1 1 1 1
-                      2 2 2
-                        3 3
+                    1 2 3 4
+                      2 3 4
+                        3 4
                           4
 ```
 The code link are as follow :<br>
