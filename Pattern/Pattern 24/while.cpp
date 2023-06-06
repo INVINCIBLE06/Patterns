@@ -15,17 +15,20 @@ int main()
     int n = 4, i = 1, j = 1, k = 1;
     while(i <= n)
     {
-        while(j <= (n - i) )
+        while(j < i)
         {
-            cout<<"    ";
+            cout<<"  ";
             j = j + 1;
         }
-        while(k <= i)
+        while(k <= (n - (i - 1)))
         {
-            cout <<i;
-            if (k != i) 
+            if(i == 1)
             {
-                cout<<"   ";
+                cout<<k<<" ";
+            }
+            else
+            {
+                cout<<k + (i - 1)<<" ";
             }
             k = k + 1;
         }
