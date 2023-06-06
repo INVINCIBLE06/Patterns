@@ -266,3 +266,29 @@ Pattern will be this :-   <br>
 The code link are as follow :<br>
     1. [For Loop](https://github.com/INVINCIBLE06/Patterns/blob/main/Pattern/Pattern%2022/for.cpp)<br>
     2. [While Loop](https://github.com/INVINCIBLE06/Patterns/blob/main/Pattern/Pattern%2022/while.cpp)<br>
+
+## Pattern 23
+
+Pattern will be this :-   <br>
+```bash
+                    1 1 1 1
+                      2 2 2
+                        3 3
+                          4
+```
+The code link are as follow :<br>
+    1. [For Loop](https://github.com/INVINCIBLE06/Patterns/blob/main/Pattern/Pattern%2023/for.cpp)<br>
+    2. [While Loop](https://github.com/INVINCIBLE06/Patterns/blob/main/Pattern/Pattern%2023/while.cpp)<br>
+
+## Pattern 24
+
+Pattern will be this :-   <br>
+```bash
+                    1 1 1 1
+                      2 2 2
+                        3 3
+                          4
+```
+The code link are as follow :<br>
+    1. [For Loop](https://github.com/INVINCIBLE06/Patterns/blob/main/Pattern/Pattern%2024/for.cpp)<br>
+    2. [While Loop](https://github.com/INVINCIBLE06/Patterns/blob/main/Pattern/Pattern%2024/while.cpp)<br>
