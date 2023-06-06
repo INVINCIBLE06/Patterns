@@ -165,3 +165,104 @@ Pattern will be this :-   <br>
 The code link are as follow :<br>
     1. [For Loop](https://github.com/INVINCIBLE06/Patterns/blob/main/Pattern/Pattern%2014/for.cpp)<br>
     2. [While Loop](https://github.com/INVINCIBLE06/Patterns/blob/main/Pattern/Pattern%2014/while.cpp)<br>
+
+## Pattern 15
+Pattern will be this :-   <br>
+```bash
+                    A 
+                    B B 
+                    C C C 
+```
+The code link are as follow :<br>
+    1. [For Loop](https://github.com/INVINCIBLE06/Patterns/blob/main/Pattern/Pattern%2015/for.cpp)<br>
+    2. [While Loop](https://github.com/INVINCIBLE06/Patterns/blob/main/Pattern/Pattern%2015/while.cpp)<br>
+
+## Pattern 16
+Pattern will be this :-   <br>
+```bash
+                    A 
+                    B C 
+                    D E F 
+                    G H I J 
+```
+The code link are as follow :<br>
+    1. [For Loop](https://github.com/INVINCIBLE06/Patterns/blob/main/Pattern/Pattern%2016/for.cpp)<br>
+    2. [While Loop](https://github.com/INVINCIBLE06/Patterns/blob/main/Pattern/Pattern%2016/while.cpp)<br>
+
+## Pattern 17
+
+Pattern will be this :-   <br>
+```bash
+                        A
+                        B C
+                        C D E
+                        D E F G
+```
+The code link are as follow :<br>
+    1. [For Loop](https://github.com/INVINCIBLE06/Patterns/blob/main/Pattern/Pattern%2017/for.cpp)<br>
+    2. [While Loop](https://github.com/INVINCIBLE06/Patterns/blob/main/Pattern/Pattern%2017/while.cpp)<br>
+
+## Pattern 18
+
+Pattern will be this :-   <br>
+```bash
+                   D 
+                   C D
+                   B C D
+                   A B C D
+```
+The code link are as follow :<br>
+    1. [For Loop](https://github.com/INVINCIBLE06/Patterns/blob/main/Pattern/Pattern%2018/for.cpp)<br>
+    2. [While Loop](https://github.com/INVINCIBLE06/Patterns/blob/main/Pattern/Pattern%2018/while.cpp)<br>
+
+## Pattern 19
+
+Pattern will be this :-   <br>
+```bash
+                  *
+                * *
+              * * *
+            * * * *
+```
+The code link are as follow :<br>
+    1. [For Loop](https://github.com/INVINCIBLE06/Patterns/blob/main/Pattern/Pattern%2019/for.cpp)<br>
+    2. [While Loop](https://github.com/INVINCIBLE06/Patterns/blob/main/Pattern/Pattern%2019/while.cpp)<br>
+
+## Pattern 20
+
+Pattern will be this :-   <br>
+```bash
+                * * * *
+                  * * *
+                    * *
+                      *
+```
+The code link are as follow :<br>
+    1. [For Loop](https://github.com/INVINCIBLE06/Patterns/blob/main/Pattern/Pattern%2020/for.cpp)<br>
+    2. [While Loop](https://github.com/INVINCIBLE06/Patterns/blob/main/Pattern/Pattern%2020/while.cpp)<br>
+
+## Pattern 21
+
+Pattern will be this :-   <br>
+```bash
+                * * * *
+                * * *
+                * *
+                *
+```
+The code link are as follow :<br>
+    1. [For Loop](https://github.com/INVINCIBLE06/Patterns/blob/main/Pattern/Pattern%2021/for.cpp)<br>
+    2. [While Loop](https://github.com/INVINCIBLE06/Patterns/blob/main/Pattern/Pattern%2021/while.cpp)<br>
+
+## Pattern 22
+
+Pattern will be this :-   <br>
+```bash
+                    1 1 1 1
+                      2 2 2
+                        3 3
+                          4
+```
+The code link are as follow :<br>
+    1. [For Loop](https://github.com/INVINCIBLE06/Patterns/blob/main/Pattern/Pattern%2022/for.cpp)<br>
+    2. [While Loop](https://github.com/INVINCIBLE06/Patterns/blob/main/Pattern/Pattern%2022/while.cpp)<br>

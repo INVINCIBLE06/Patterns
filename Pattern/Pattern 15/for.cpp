@@ -1,9 +1,9 @@
 /**
  * The below code is for printing the partter
  *          The pattern will be like this :-
- *                  A B C
- *                  B C D
- *                  C D E
+                A 
+                B B 
+                C C C 
 */
 
 #include<iostream>
