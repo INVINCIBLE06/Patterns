@@ -17,18 +17,16 @@ int main()
     // cin >> n;
     while(i <= n)
     {
-        while(k <= (n - (i - 1)))
-        {
-            cout <<"* ";
-            k = k + 1;
-        }
-
         while(j < i)
         {
             cout <<" ";
             j = j + 1;
         }
-        
+        while(k <= (n - (i - 1)))
+        {
+            cout <<i;
+            k = k + 1;
+        }
         j = 1;
         k = 1;
         i = i + 1;
