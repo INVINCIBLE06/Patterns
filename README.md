@@ -341,7 +341,6 @@ Pattern will be this :-   <br>
                 1 2 3 * * * * 3 2 1
                 1 2 * * * * * * 2 1
                 1 * * * * * * * * 1
-                * * * * * * * * * *
 ```
 The code link are as follow :<br>
     1. [For Loop](https://github.com/INVINCIBLE06/Patterns/blob/main/Pattern/Pattern%2028/for.cpp)<br>

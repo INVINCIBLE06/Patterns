@@ -6,17 +6,16 @@
                 1 2 3 * * * * 3 2 1
                 1 2 * * * * * * 2 1
                 1 * * * * * * * * 1
-                * * * * * * * * * *
 */
 
 #include<iostream>
 using namespace std;
 int main()
 {
-    int n = 5, count, invcount;
+    int n = 6;
+    
     for(int i = 1; i <= n; i++)
     {
-        count = 1;
         for (int k = 1; k <= n; k++)
         {
             if(k == 1)
@@ -25,17 +24,17 @@ int main()
             }
             else
             {
-                if(k > 1)
+                if(k > (n-(i-1)))
                 {
-                    do
-                    {
-                        cout<<k<<" ";
-                        k = k + 1;
-                    }while(k<(n-(k-1)));
+                    cout<<"*"<<" ";
+                }
+                else
+                {
+                    cout<<k<<" ";
                 }
             }
         }
-        for(int l = 5; l>= 1; l--)
+        for(int l = n; l>= 1; l--)
         {
             if(l == 1)
             {
@@ -43,7 +42,14 @@ int main()
             }
             else
             {
-                cout<<l<<" ";
+                if(l > (n - (i-1)))
+                {
+                    cout<<"*"<<" ";
+                }
+                else
+                {
+                    cout<<l<<" ";
+                }
             }
         }
         cout<<endl;

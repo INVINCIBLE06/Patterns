@@ -6,7 +6,6 @@
                 1 2 3 * * * * 3 2 1
                 1 2 * * * * * * 2 1
                 1 * * * * * * * * 1
-                * * * * * * * * * *
 */
 
 #include<iostream>
@@ -14,41 +13,53 @@ using namespace std;
 
 int main()
 {
-    int n = 4, i = 1, j = 1, k = 1, count, invcount;
+    int n = 5, i = 1, j = 1, k = n;
     while(i <= n)
     {
-        while(j <= (n - i))
+        while(j <= n)
         {
-            cout<<"   ";
-            j = j + 1;
-        }
-        count = 1;
-        while(k < i + i)
-        {
-            if(k <= i)
+            if(i == 1)
             {
-                if(i == 1)
-                {
-                    cout<<count;
-                }
-                else
-                {
-                    cout<<count<<"  ";
-                    invcount = count;
-                }
+                cout<<j<<" ";
+                j = j + 1;
             }
             else
             {
-                invcount--;
-                cout<<invcount<<"  ";
+                if(j <= (n - (i - 1)))
+                {
+                    cout<<j<<" ";
+                    j = j + 1;
+                }
+                else
+                {
+                    cout<<"*"<<" ";
+                    j++;
+                }
             }
-            k = k + 1;
-            count = count + 1;
+        }
+        
+        while(k >= 1)
+        {
+            if(i == 1)
+            {
+                cout<<k<<" ";
+            }
+            else
+            {
+                if(k <= (n - (i - 1)))
+                {
+                    cout<<k<<" ";
+                }
+                else
+                {
+                    cout<<"*"<<" ";
+                }
+            }
+            k--;
         }
         j = 1;
-        k = 1;
+        k = n;
         i = i + 1;
         cout << endl;
     }    
 };
-
