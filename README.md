@@ -1,9 +1,8 @@
-# Patterns
+## Patterns
 
 Welcome to our repository of diverse patterns! Here, you will find a wide array of captivating patterns, each implemented with both "FOR" and "WHILE" loops for your convenience and understanding.
 
     1. Box Patterns: This collection features patterns that are intricately tied to the box shape. Explore the fascinating array of designs that can be created within the confines of a box.<br>
-
     [Link](https://github.com/INVINCIBLE06/Patterns/tree/main/Box%20Pattern)<br>
 
 
