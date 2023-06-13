@@ -1,9 +1,10 @@
 /**
  * The below code is for printing the partter
  *          The pattern will be like this :-
-*                  1 1 1
- *                 2 2 2
- *                 3 3 3
+ *  *               1 2 3 4
+ *                  1 2 3 4
+ *                  1 2 3 4
+ *                  1 2 3 4
 */
 
 
@@ -19,7 +20,7 @@ int main()
     {
         while(j < n)
         {
-            cout << i + 1;
+            cout << j + 1;
             cout << " ";
             j = j + 1;
         }

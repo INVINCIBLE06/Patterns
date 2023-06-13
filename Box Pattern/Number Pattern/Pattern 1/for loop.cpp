@@ -1,10 +1,9 @@
 /**
  * The below code is for printing the partter
  *          The pattern will be like this :-
- *                  1 2 3 4
- *                  1 2 3 4
- *                  1 2 3 4
- *                  1 2 3 4
+ *                  1 1 1
+ *                  2 2 2
+ *                  3 3 3
 */
 
 
@@ -18,9 +17,9 @@ int main()
     cin >> n;
     for(int i = 1; i <= n; i++)
     {
-        for(int j = 1; j <= n; j++)
+        for(int j = 0; j < n; j++)
         {
-            cout << j;
+            cout << i;
             cout << " ";
         }
         cout << endl;
