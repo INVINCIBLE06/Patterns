@@ -30,8 +30,8 @@ Pattern will be this :-   <br>
                    3 2 1 
 ```
 The code link are as follow :<br>
-    1. [For Loop](https://github.com/INVINCIBLE06/Patterns/blob/main/Box%20Pattern/Number%20Pattern/Pattern%204/for.cpp)<br>
-    2. [While Loop](https://github.com/INVINCIBLE06/Patterns/blob/main/Box%20Pattern/Number%20Pattern/Pattern%204/for.cpp)<br>
+    1. [For Loop](https://github.com/INVINCIBLE06/Patterns/blob/main/Box%20Pattern/Number%20Pattern/Pattern%203/for.cpp)<br>
+    2. [While Loop](https://github.com/INVINCIBLE06/Patterns/blob/main/Box%20Pattern/Number%20Pattern/Pattern%203/for.cpp)<br>
 
 
 ## Pattern 4
