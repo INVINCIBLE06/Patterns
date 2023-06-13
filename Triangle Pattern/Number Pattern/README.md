@@ -125,3 +125,59 @@ Pattern will be this :-   <br>
 The code link are as follow :<br>
     1. [For Loop](https://github.com/INVINCIBLE06/Patterns/blob/main/Triangle%20Pattern/Number%20Pattern/Pattern%2010/for.cpp)<br>
     2. [While Loop](https://github.com/INVINCIBLE06/Patterns/blob/main/Triangle%20Pattern/Number%20Pattern/Pattern%2010/while.cpp)<br>
+
+## Pattern 11
+
+Pattern will be this :-   <br>
+```bash
+                    1
+                    1   2
+                    1       3
+                    1           4
+                    1   2   3   4   5
+```
+The code link are as follow :<br>
+    1. [For Loop](https://github.com/INVINCIBLE06/Patterns/blob/main/Triangle%20Pattern/Number%20Pattern/Pattern%2011/for.cpp)<br>
+    2. [While Loop](https://github.com/INVINCIBLE06/Patterns/blob/main/Triangle%20Pattern/Number%20Pattern/Pattern%2011/while.cpp)<br>
+
+## Pattern 12
+
+Pattern will be this :-   <br>
+```bash
+                                1
+                            2   3   2
+                        3   4   5   4   3
+                    4   5   6   7   6   5   4
+                5   6   7   8   9   8   7   6   5
+```
+The code link are as follow :<br>
+    1. [For Loop](https://github.com/INVINCIBLE06/Patterns/blob/main/Triangle%20Pattern/Number%20Pattern/Pattern%2012/for.cpp)<br>
+    2. [While Loop](https://github.com/INVINCIBLE06/Patterns/blob/main/Triangle%20Pattern/Number%20Pattern/Pattern%2012/while.cpp)<br>
+
+## Pattern 13
+
+Pattern will be this :-   <br>
+```bash
+                    1
+                  1   2
+                1       3
+              1           4  
+            1   2   3   4   5
+```
+The code link are as follow :<br>
+    1. [For Loop](https://github.com/INVINCIBLE06/Patterns/blob/main/Triangle%20Pattern/Number%20Pattern/Pattern%2013/for.cpp)<br>
+    2. [While Loop](https://github.com/INVINCIBLE06/Patterns/blob/main/Triangle%20Pattern/Number%20Pattern/Pattern%2013/while.cpp)<br>
+
+## Pattern 14
+
+Pattern will be this :-   <br>
+```bash
+            1   2   3   4   5
+            2           5
+            3       5
+            4   5
+            5  
+```
+The code link are as follow :<br>
+    1. [For Loop](https://github.com/INVINCIBLE06/Patterns/blob/main/Triangle%20Pattern/Number%20Pattern/Pattern%2014/for.cpp)<br>
+    2. [While Loop](https://github.com/INVINCIBLE06/Patterns/blob/main/Triangle%20Pattern/Number%20Pattern/Pattern%2014/while.cpp)<br>
