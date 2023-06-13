@@ -30,8 +30,8 @@ Pattern will be this :-   <br>
                    3 2 1 
 ```
 The code link are as follow :<br>
-    1. [For Loop](https://github.com/INVINCIBLE06/Patterns/blob/main/Box%20Pattern/Number%20Pattern/Pattern%203/for%20loop.cpp)<br>
-    2. [While Loop](https://github.com/INVINCIBLE06/Patterns/blob/main/Box%20Pattern/Number%20Pattern/Pattern%203/while%20loop.cpp)<br>
+    1. [For Loop](https://github.com/INVINCIBLE06/Patterns/blob/main/Box%20Pattern/Number%20Pattern/Pattern%204/for.cpp)<br>
+    2. [While Loop](https://github.com/INVINCIBLE06/Patterns/blob/main/Box%20Pattern/Number%20Pattern/Pattern%204/for.cpp)<br>
 
 
 ## Pattern 4
@@ -42,5 +42,5 @@ Pattern will be this :-   <br>
                    7 8 9
 ```
 The code link are as follow :<br>
-    1. [For Loop](https://github.com/INVINCIBLE06/Patterns/blob/main/Box%20Pattern/Number%20Pattern/Pattern%204/for%20loop.cpp)<br>
-    2. [While Loop](https://github.com/INVINCIBLE06/Patterns/blob/main/Box%20Pattern/Number%20Pattern/Pattern%204/while%20loop.cpp)<br>
+    1. [For Loop](https://github.com/INVINCIBLE06/Patterns/blob/main/Box%20Pattern/Number%20Pattern/Pattern%204/for.cpp)<br>
+    2. [While Loop](https://github.com/INVINCIBLE06/Patterns/blob/main/Box%20Pattern/Number%20Pattern/Pattern%204/for.cpp)<br>
